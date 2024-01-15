@@ -5,7 +5,7 @@ I've been coding 1+ year, building websites and other projects. Learning new ski
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [Isaac0hoyle@gmail.com](mailto:Isaac0hoyle@gmail.com)
-* 🧠  I'm learning Cloud/AWS
+* 🧠  I'm learning AWS
 
 ### Skills
 
